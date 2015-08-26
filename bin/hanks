@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby  
+
+require 'hanks'
+puts Hanks.hi(ARGV[0]) 
