@@ -6,9 +6,11 @@ class Hanks::Translator
   def hi
     case @language
     when "spanish"
-      "Hanks mundo"
+      "hanks mundo"
+    when "english"
+      "hello world"
     else
-      "Hello world"
+      "ruby"
     end
 
   end

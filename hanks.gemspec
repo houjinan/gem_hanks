@@ -11,3 +11,5 @@ Gem::Specification.new do |s|
     'https://rubygems.org/gems/hanks'
   s.license       = 'MIT'
 end
+
+#gem.add_runtime_dependency "binding.pry"
