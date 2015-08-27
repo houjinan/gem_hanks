@@ -1,3 +1,5 @@
+require 'pry'
+
 class Hanks::Translator
   def initialize(language)
     @language = language
